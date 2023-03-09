@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - PostFx
   - Water
   - UI
   - 
@@ -38,6 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 644292873
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Coin
+    uniqueID: 2454196353
+    locked: 0
+  - name: Player
+    uniqueID: 3996225643
     locked: 0
